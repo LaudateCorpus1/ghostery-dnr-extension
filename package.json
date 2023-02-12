@@ -24,7 +24,7 @@
     "prettier": "2.5.1",
     "rimraf": "^3.0.2",
     "vendor-copy": "^3.0.1",
-    "web-ext": "^6.4.0"
+    "web-ext": "^7.5.0"
   },
   "dependencies": {
     "@cliqz/adblocker": "1.22.7",
